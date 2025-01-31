@@ -13,7 +13,7 @@ You have been hired by a local restaurant to develop a simplified backend system
 Basic express template was given  
 You need to install all the necessary packages required for the task.
 
-### Define a MenuItem schema that includes:
+### Define a MenuItem schema that includes: 
 - name (String, required)
 - description (String)
 - price (Number, required)
